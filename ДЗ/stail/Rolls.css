@@ -1,0 +1,57 @@
+body{
+    background-color: rgb(41, 40, 40);
+}
+
+.si1{
+    position: absolute;
+    left: 80px;
+    top: 35px;
+    font-size: 30px;
+}
+
+.si2{
+    position: absolute;
+    left: 330px;
+    top: 35px;
+    font-size: 30px;
+}
+
+.si3{
+    position: absolute;
+    left: 1000px;
+    top: 35px;
+    font-size: 30px;
+}
+
+.si4{
+    position: absolute;
+    left:   1250px;
+    top: 35px;
+    font-size: 30px;
+}
+.tx1{
+    font-size: 60px;
+    color: white;
+    position: absolute;
+    left: 580px;
+    top: -50px;
+}
+
+a{
+    text-decoration: dashed;
+    color: rgb(30, 28, 28);
+}
+
+
+.tx3{ 
+    color: white ;
+    font-size: 30px;
+    position: absolute;
+    top: 1000px;
+    left: 200px;
+}
+
+.car1{
+    width: 100%;
+
+}
